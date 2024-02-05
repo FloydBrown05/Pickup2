@@ -1,0 +1,110 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void NewBehaviourScript_Start_mDEAA416D3A6676A79851DDF6B62D676E53372A87 (void);
+extern void NewBehaviourScript_Update_m68CAC9D7524B9FA1DFCA3F99BA694CD73147209B (void);
+extern void NewBehaviourScript__ctor_mD2E080DE77BCDB61B6D2EC8AD996FAE611B97F3C (void);
+extern void ThirdPersonCam_Start_mF55A44399193662C960E799B1DD86A36BE4DA979 (void);
+extern void ThirdPersonCam_Update_mD6D17F14C26FFABCE5B905596B4003452407EA70 (void);
+extern void ThirdPersonCam__ctor_m168FFEA302CE06BBD1677E8C3D5BCD5BF898E7DA (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+extern void DoorController_get_CurrentState_m10DFDE50F042C43A25528B905B73559B5C94AFA1 (void);
+extern void DoorController_set_CurrentState_mED5164D84AA548BB5DB9BF851FE7252F06302425 (void);
+extern void DoorController_get_IsDoorOpen_mED0E43F2137FAC2A1D958EBA93C65BFBC57C2E59 (void);
+extern void DoorController_get_IsDoorClosed_m8D72CCCE18CCDC51FEF860817274E3E6A83E8287 (void);
+extern void DoorController_Awake_m41A67CDA59EBE84C1E7540CF44B3AC23D8646810 (void);
+extern void DoorController_Start_mF030C0AB6F969D4EA6A506E6472E32D79BAE4C5E (void);
+extern void DoorController_CloseDoor_m9B2BEC56EAB5EA626A31E20C7001749C50014CBA (void);
+extern void DoorController_OpenDoor_mAD7D25AF52286A8143F9C3470ECDEEB748F7900D (void);
+extern void DoorController_ToggleDoor_mB8CF6CD38A611CBF095A133AFB9F8585E64E39B6 (void);
+extern void DoorController_Animate_mF330E38A70AD7554637FE4703D4388D5573C098D (void);
+extern void DoorController_GetCurrentAnimation_m7A212994A7997783D313B5F39C347474C49AAD77 (void);
+extern void DoorController__ctor_m7B71D990849C0F95580BFBA82487CD93B412850A (void);
+extern void DoorToggle_Awake_m0D47CE1711163AE3CDE876AD857549C5B3C3E375 (void);
+extern void DoorToggle_OnMouseDown_mDACA186648D0AD96738A924CB0EAB03AD72A2E5D (void);
+extern void DoorToggle__ctor_mA23E454284DE2CDFC5AD29F51C7464E15B2B4377 (void);
+static Il2CppMethodPointer s_methodPointers[23] = 
+{
+	NewBehaviourScript_Start_mDEAA416D3A6676A79851DDF6B62D676E53372A87,
+	NewBehaviourScript_Update_m68CAC9D7524B9FA1DFCA3F99BA694CD73147209B,
+	NewBehaviourScript__ctor_mD2E080DE77BCDB61B6D2EC8AD996FAE611B97F3C,
+	ThirdPersonCam_Start_mF55A44399193662C960E799B1DD86A36BE4DA979,
+	ThirdPersonCam_Update_mD6D17F14C26FFABCE5B905596B4003452407EA70,
+	ThirdPersonCam__ctor_m168FFEA302CE06BBD1677E8C3D5BCD5BF898E7DA,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+	DoorController_get_CurrentState_m10DFDE50F042C43A25528B905B73559B5C94AFA1,
+	DoorController_set_CurrentState_mED5164D84AA548BB5DB9BF851FE7252F06302425,
+	DoorController_get_IsDoorOpen_mED0E43F2137FAC2A1D958EBA93C65BFBC57C2E59,
+	DoorController_get_IsDoorClosed_m8D72CCCE18CCDC51FEF860817274E3E6A83E8287,
+	DoorController_Awake_m41A67CDA59EBE84C1E7540CF44B3AC23D8646810,
+	DoorController_Start_mF030C0AB6F969D4EA6A506E6472E32D79BAE4C5E,
+	DoorController_CloseDoor_m9B2BEC56EAB5EA626A31E20C7001749C50014CBA,
+	DoorController_OpenDoor_mAD7D25AF52286A8143F9C3470ECDEEB748F7900D,
+	DoorController_ToggleDoor_mB8CF6CD38A611CBF095A133AFB9F8585E64E39B6,
+	DoorController_Animate_mF330E38A70AD7554637FE4703D4388D5573C098D,
+	DoorController_GetCurrentAnimation_m7A212994A7997783D313B5F39C347474C49AAD77,
+	DoorController__ctor_m7B71D990849C0F95580BFBA82487CD93B412850A,
+	DoorToggle_Awake_m0D47CE1711163AE3CDE876AD857549C5B3C3E375,
+	DoorToggle_OnMouseDown_mDACA186648D0AD96738A924CB0EAB03AD72A2E5D,
+	DoorToggle__ctor_mA23E454284DE2CDFC5AD29F51C7464E15B2B4377,
+};
+static const int32_t s_InvokerIndices[23] = 
+{
+	4658,
+	4658,
+	4658,
+	4658,
+	4658,
+	4658,
+	6822,
+	4658,
+	4540,
+	3738,
+	4490,
+	4490,
+	4658,
+	4658,
+	4658,
+	4658,
+	4658,
+	4658,
+	4567,
+	4658,
+	4658,
+	4658,
+	4658,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	23,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
